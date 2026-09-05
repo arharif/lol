@@ -1,5 +1,4 @@
 # MENG 404 - Python Week 2
-# Required submission filename: pweek2.py
 
 import fractions
 import numpy as np
