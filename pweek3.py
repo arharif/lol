@@ -1,5 +1,4 @@
 # MENG 404 - Python Week 3
-# Required submission filename: pweek3.py
 
 import numpy as np
 
