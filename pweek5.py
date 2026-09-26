@@ -1,5 +1,4 @@
-# MENG 404 - Python Week 5
-# Required submission filename: pweek5.py
+# MENG 404 : Python Week 5
 
 import numpy as np
 from numpy import linalg as LA
