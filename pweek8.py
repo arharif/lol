@@ -1,5 +1,4 @@
 # MENG 404 - Python Week 8
-# Required submission filename: pweek8.py
 
 import numpy as np
 
