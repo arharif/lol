@@ -1,0 +1,8 @@
+For centroid-data-2.txt, my algorithm is suggesting the two initial points are
+(29, 76) and (88, 28).
+
+For centroid-data-4.txt, my algorithm is suggesting the four initial points are
+(2, 1), (59, 14), (65, 42), and (89, 57).
+
+For centroid-data-5.txt, my algorithm is suggesting the five initial points are
+(30, 21), (50, 41), (55, 6), (61, 57), and (71, 68).
